@@ -8,7 +8,7 @@ const products = [
     price: 150,
     image:
       "https://labolivianita.com.bo/wp-content/uploads/2024/06/Manta-de-alpaca.jpg",
-    sizes: ["28", "30", "32", "34"],
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const products = [
     price: 130,
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHihUYruVIDkz-kkwhHWteQ3OvE447OgGxHA&s",
-    sizes: ["28", "30", "32", "34"],
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 3,
@@ -26,7 +26,7 @@ const products = [
     price: 180,
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQus9b6DfgQidu6xJzK_6ufpgEzMrX_1O33lrY3iH0sdHgp7N1xStSDzAHkbd9NQJYk3-8&usqp=CAU",
-    sizes: ["28", "30", "32", "34"],
+    sizes: ["S", "M", "L", "XL"],
   },
   {
     id: 4,
